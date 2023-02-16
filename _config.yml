@@ -10,8 +10,8 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Thomas Dahl"
-resume_title:                   "Semi-Professional Surfer"
+resume_name:                    "Thomas"
+resume_title:                   "Professional Surfer"
 resume_contact_email:           "onlyMyWay@github.com"
 resume_contact_telephone:       "49-(228)-920-68246"
 resume_contact_address:         "Bonn, Nordrheinwestfalen"
